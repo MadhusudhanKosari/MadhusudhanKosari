@@ -96,4 +96,5 @@ I focus on building systems that are not just accurate, but **usable and interpr
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/madhusudhan-kosari-b28540282/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:23211a05e8@bvrit.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=23211a05e8@gmail.com)
+📧 Email: 23211a05e8@gmail.com
