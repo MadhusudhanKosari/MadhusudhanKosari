@@ -88,7 +88,8 @@ I focus on building systems that are not just accurate, but **usable and interpr
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MadhusudhanKosari&theme=tokyonight" />
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=MadhusudhanKosari&color=blue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MadhusudhanKosari&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhusudhanKosari\&theme=tokyo-night)](https://github.com/MadhusudhanKosari)
 
 ---
